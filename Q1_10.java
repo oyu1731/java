@@ -1,4 +1,4 @@
-package kyoutu;
+
 
 import java.util.Scanner;
 

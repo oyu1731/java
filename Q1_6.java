@@ -1,5 +1,3 @@
-package kyoutu;
-
 class Q_6 {
     public static void main(String[] args) {
         String captal;

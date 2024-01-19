@@ -1,5 +1,3 @@
-package kyoutu;
-
 class Q8_1 {
     public static void main(String[] args) {
         // int型の配列listを作成(要素は１０個)

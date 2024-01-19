@@ -1,4 +1,3 @@
-package kyoutu;
 import java.util.Scanner;
 
 class Q9_1 {

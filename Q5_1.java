@@ -1,4 +1,4 @@
-package kyoutu;
+
 //文字の入力をするためにscannerをインポート
 import java.util.Scanner;
 

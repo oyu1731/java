@@ -1,4 +1,4 @@
-package kyoutu;
+
 
 class Q3_6 {
     public static void main(String[] args) {
