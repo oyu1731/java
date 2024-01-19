@@ -1,7 +1,7 @@
 import java.util.Scanner;
 
 //mainクラスを作成
-class Q11_1_main {
+class Q11_1 {
     public static void main(String[] args) {
         Scanner stdIn = new Scanner(System.in);
         System.out.println("半径を入力");
@@ -10,7 +10,10 @@ class Q11_1_main {
 
         //クラスkansuをインスタンス化
         //別のクラスのメソッドを用いるためにはインスタンス化が必要
-        //クラス名 オブジェクト名 = new クラス名()
+        //クラス名 オブジェクト名 = new クラス名(コンストラクタ)
+        //コンストラクタの特徴
+            //クラスメイとメソッドの名前が一致
+            //戻り地リターンがない
         Q11_1_kansu calculator = new Q11_1_kansu();
         calculator.get_circumference(n);
         calculator.get_area(n);
