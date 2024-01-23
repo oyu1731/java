@@ -20,7 +20,7 @@ class Q11_3 {
         //インスタンス化
         Keisan calculator = new Keisan();
         calculator.sum(x,y);
-    }
+    } 
 }
 
 class Keisan {
