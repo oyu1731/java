@@ -9,4 +9,4 @@ class main {
         //-----------入力された文字列を表示
         System.out.println(str);
     }
-}
+} 

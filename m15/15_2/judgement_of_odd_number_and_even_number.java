@@ -13,7 +13,6 @@ class judgement_of_odd_number_and_even_number {
     if (int_A % 2 == 0){
         System.out.println(int_A + " は偶数");
     } else {
-        System.out.println(int_A + " は奇数");
     }
 //--------------[ 例外処理 (入力がint型かどうか確認) ]--------------
 } catch(InputMismatchException e){
